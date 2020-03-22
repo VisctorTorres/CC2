@@ -1,5 +1,5 @@
-[NOMBRE] Cesar Contreras Zamorano
-[ROL] 2973060-1
+[NOMBRE] Victor Torres
+[ROL] 201173076-3
 [LIBRERIAS] 
 #LIBRERIAS A UTILIZAR
 import numpy as np
